@@ -3600,7 +3600,7 @@ tbody.collapse.in {
   height: 1px;
   margin: 9px 0;
   overflow: hidden;
-  background-color: #CE0202;
+  background-color: #E5E5E5;
 }
 .dropdown-menu > li > a {
   display: block;
@@ -4549,7 +4549,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
-  color: #CE0202;
+  color: #E5E5E5;
   background-color: transparent;
 }
 .navbar-default .navbar-text {
@@ -4637,7 +4637,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
   color: #ccc;
 }
 .navbar-inverse {
-  background-color: #E1E1E1;
+  background-color: #222;
   border-color: #080808;
 }
 .navbar-inverse .navbar-brand {
